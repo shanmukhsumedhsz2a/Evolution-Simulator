@@ -1,5 +1,5 @@
 # Evolution-Simulator
-A 2D Evolution Simulation with Triangular Boid Creatures using Primitive Sensory Input And Evolving Neural Network Brains
+A 2D Evolution Simulation with Triangular Boid Creatures using Primitive Sensory Input And Evolving Neural Network Brains with Augumenting Topologies
 
 ENVIRONMENT DYNAMICS
 Uses the python turtle package for animation of a 2D world where the boid creatures inhabit
